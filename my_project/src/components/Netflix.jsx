@@ -11,7 +11,7 @@ export const Header=()=>{
    
 
 };
-
+//mycard
  const NetflixCards = () =>{
     
     return (
